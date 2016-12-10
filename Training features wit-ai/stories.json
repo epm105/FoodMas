@@ -1,0 +1,55 @@
+{
+  "data" : [
+    {
+      "name" : "",
+      "turns" : [
+        {
+          "user" : "Hola, tengo 20 kg de carne para regalar hoy a las 9pm",
+          "entities" : [
+            {
+              "entity" : "number",
+              "value" : "20",
+              "start" : 12,
+              "end" : 14
+            },
+            {
+              "entity" : "quantity_of_food",
+              "value" : "\"kg\"",
+              "start" : 15,
+              "end" : 17
+            },
+            {
+              "entity" : "specific_type_of_food",
+              "value" : "\"carne\"",
+              "start" : 21,
+              "end" : 26
+            },
+            {
+              "entity" : "donation_action",
+              "value" : "\"regalar\"",
+              "start" : 32,
+              "end" : 39
+            },
+            {
+              "entity" : "general_time_notion",
+              "value" : "\"hoy\"",
+              "start" : 40,
+              "end" : 43
+            },
+            {
+              "entity" : "datetime",
+              "value" : "\"2016-10-22T21:00:00.000-07:00\"",
+              "start" : 50,
+              "end" : 53
+            }
+          ],
+          "operations" : [
+            {
+              "action" : "template-Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} a las {datetime}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

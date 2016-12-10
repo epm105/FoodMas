@@ -1,0 +1,116 @@
+{
+  "data" : [
+    {
+      "id" : "template-Gracias, estamos procesando tu información para así poder donar la {specific_food} {general_time_location} a las {wit/datetime}",
+      "type" : "template",
+      "template" : "Gracias, estamos procesando tu información para así poder donar la {specific_food} {general_time_location} a las {wit/datetime}",
+      "requirements" : [
+        {
+          "name" : "general_time_location",
+          "negative" : false
+        },
+        {
+          "name" : "specific_food",
+          "negative" : false
+        },
+        {
+          "name" : "wit/datetime",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Gracias, estamos procesando tu información para así poder donar la {specific_food} {general_time_location} a las {wit/datetime}.",
+      "type" : "template",
+      "template" : "Gracias, estamos procesando tu información para así poder donar la {specific_food} {general_time_location} a las {wit/datetime}.",
+      "requirements" : [
+        {
+          "name" : "general_time_location",
+          "negative" : false
+        },
+        {
+          "name" : "specific_food",
+          "negative" : false
+        },
+        {
+          "name" : "wit/datetime",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} ",
+      "type" : "template",
+      "template" : "Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} ",
+      "requirements" : [
+        {
+          "name" : "general_time_notion",
+          "negative" : false
+        },
+        {
+          "name" : "specific_type_of_food",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} a las {datetime}",
+      "type" : "template",
+      "template" : "Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} a las {datetime}",
+      "requirements" : [
+        {
+          "name" : "datetime",
+          "negative" : false
+        },
+        {
+          "name" : "general_time_notion",
+          "negative" : false
+        },
+        {
+          "name" : "specific_type_of_food",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} a las {wit/datetime}",
+      "type" : "template",
+      "template" : "Gracias, estamos procesando tu información para así poder donar la {specific_type_of_food} {general_time_notion} a las {wit/datetime}",
+      "requirements" : [
+        {
+          "name" : "general_time_notion",
+          "negative" : false
+        },
+        {
+          "name" : "specific_type_of_food",
+          "negative" : false
+        },
+        {
+          "name" : "wit/datetime",
+          "negative" : false
+        }
+      ]
+    },
+    {
+      "id" : "template-Gracias, estamos procesando tu información para así poder donar la.",
+      "type" : "template",
+      "template" : "Gracias, estamos procesando tu información para así poder donar la."
+    },
+    {
+      "id" : "template-chao",
+      "type" : "template",
+      "template" : "chao"
+    },
+    {
+      "id" : "template-{quantity_of_food}",
+      "type" : "template",
+      "template" : "{quantity_of_food}",
+      "requirements" : [
+        {
+          "name" : "quantity_of_food",
+          "negative" : false
+        }
+      ]
+    }
+  ]
+}

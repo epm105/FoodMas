@@ -1,0 +1,8 @@
+{
+  "version" : 20160513,
+  "zip-command" : "zip FoodMas.zip FoodMas/app.json FoodMas/entities/*.json FoodMas/actions.json FoodMas/stories.json FoodMas/expressions.json",
+  "data" : {
+    "name" : "FoodMas",
+    "lang" : "en"
+  }
+}

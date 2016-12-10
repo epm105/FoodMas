@@ -1,0 +1,45 @@
+{
+  "data" : {
+    "lookups" : [
+      "keywords"
+    ],
+    "name" : "general_food",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "general_food",
+    "values" : [
+      {
+        "value" : "alimentos",
+        "expressions" : [
+          "alimentos"
+        ]
+      },
+      {
+        "value" : "bebidas",
+        "expressions" : [
+          "bebedias"
+        ]
+      },
+      {
+        "value" : "comida",
+        "expressions" : [
+          "comida"
+        ]
+      },
+      {
+        "value" : "productos",
+        "expressions" : [
+          "productos"
+        ]
+      },
+      {
+        "value" : "sustento",
+        "expressions" : [
+          "sustento"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

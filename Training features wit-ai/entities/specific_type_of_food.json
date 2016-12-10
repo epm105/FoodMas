@@ -1,0 +1,92 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords",
+      "trait"
+    ],
+    "name" : "specific_type_of_food",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "specific_type_of_food",
+    "values" : [
+      {
+        "value" : ""
+      },
+      {
+        "value" : "agua",
+        "expressions" : [
+          "agua"
+        ]
+      },
+      {
+        "value" : "arroz",
+        "expressions" : [
+          "arroz"
+        ]
+      },
+      {
+        "value" : "atun",
+        "expressions" : [
+          "atun"
+        ]
+      },
+      {
+        "value" : "carne",
+        "expressions" : [
+          "carne"
+        ]
+      },
+      {
+        "value" : "cereal",
+        "expressions" : [
+          "cereal"
+        ]
+      },
+      {
+        "value" : "fideos",
+        "expressions" : [
+          "fideos"
+        ]
+      },
+      {
+        "value" : "frijoles",
+        "expressions" : [
+          "frijoles"
+        ]
+      },
+      {
+        "value" : "pasta",
+        "expressions" : [
+          "pasta"
+        ]
+      },
+      {
+        "value" : "pescado",
+        "expressions" : [
+          "pescado"
+        ]
+      },
+      {
+        "value" : "pollo",
+        "expressions" : [
+          "pollo"
+        ]
+      },
+      {
+        "value" : "sopa",
+        "expressions" : [
+          "sopa"
+        ]
+      },
+      {
+        "value" : "vegetales",
+        "expressions" : [
+          "vegetales"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

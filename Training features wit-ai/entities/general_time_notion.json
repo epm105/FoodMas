@@ -1,0 +1,76 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "general_time_notion",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "general_time_notion",
+    "values" : [
+      {
+        "value" : "domingo",
+        "expressions" : [
+          "domingo"
+        ]
+      },
+      {
+        "value" : "hoy",
+        "expressions" : [
+          "hoy"
+        ]
+      },
+      {
+        "value" : "jueves",
+        "expressions" : [
+          "jueves"
+        ]
+      },
+      {
+        "value" : "lunes",
+        "expressions" : [
+          "lunes"
+        ]
+      },
+      {
+        "value" : "martes",
+        "expressions" : [
+          "martes"
+        ]
+      },
+      {
+        "value" : "mañana",
+        "expressions" : [
+          "mañana"
+        ]
+      },
+      {
+        "value" : "miercoles",
+        "expressions" : [
+          "miercoles"
+        ]
+      },
+      {
+        "value" : "pasado mañana",
+        "expressions" : [
+          "pasado mañana"
+        ]
+      },
+      {
+        "value" : "sabado",
+        "expressions" : [
+          "sabado"
+        ]
+      },
+      {
+        "value" : "viernes",
+        "expressions" : [
+          "viernes"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

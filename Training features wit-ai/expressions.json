@@ -1,0 +1,302 @@
+{
+  "data" : [
+    {
+      "text" : "Hola, tengo 20 kg de carne para regalar hoy a las 9pm",
+      "entities" : [
+        {
+          "entity" : "number",
+          "value" : "20",
+          "start" : 12,
+          "end" : 14
+        },
+        {
+          "entity" : "quantity_of_food",
+          "value" : "\"kg\"",
+          "start" : 15,
+          "end" : 17
+        },
+        {
+          "entity" : "specific_type_of_food",
+          "value" : "\"carne\"",
+          "start" : 21,
+          "end" : 26
+        },
+        {
+          "entity" : "donation_action",
+          "value" : "\"regalar\"",
+          "start" : 32,
+          "end" : 39
+        },
+        {
+          "entity" : "general_time_notion",
+          "value" : "\"hoy\"",
+          "start" : 40,
+          "end" : 43
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2016-10-22T21:00:00.000-07:00\"",
+          "start" : 50,
+          "end" : 53
+        }
+      ]
+    },
+    {
+      "text" : "Tengo comida para donar"
+    },
+    {
+      "text" : "alimentos",
+      "entities" : [
+        {
+          "entity" : "general_food",
+          "value" : "\"alimentos\""
+        }
+      ]
+    },
+    {
+      "text" : "como estan, quiero donar carne hoy a las 5pm",
+      "entities" : [
+        {
+          "entity" : "donation_action",
+          "value" : "\"donar\"",
+          "start" : 19,
+          "end" : 24
+        },
+        {
+          "entity" : "specific_type_of_food",
+          "value" : "\"carne\"",
+          "start" : 25,
+          "end" : 30
+        }
+      ]
+    },
+    {
+      "text" : "hola",
+      "entities" : [
+        {
+          "entity" : "location",
+          "value" : "\"hola\"",
+          "start" : 0,
+          "end" : 4
+        }
+      ]
+    },
+    {
+      "text" : "hoy a las 5pm",
+      "entities" : [
+        {
+          "entity" : "datetime",
+          "value" : "\"hoy a las 5pm\"",
+          "start" : 0,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "hoy a las 6pm"
+    },
+    {
+      "text" : "hoy a las 8pm",
+      "entities" : [
+        {
+          "entity" : "general_time_notion",
+          "value" : "\"hoy\"",
+          "start" : 0,
+          "end" : 3
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2016-10-22T20:00:00.000-07:00\"",
+          "start" : 10,
+          "end" : 13
+        }
+      ]
+    },
+    {
+      "text" : "hoy a las 9pm"
+    },
+    {
+      "text" : "regalo comida hoy en seattle",
+      "entities" : [
+        {
+          "entity" : "general_food",
+          "value" : "\"comida\"",
+          "start" : 7,
+          "end" : 13
+        },
+        {
+          "entity" : "general_time_notion",
+          "value" : "\"hoy\"",
+          "start" : 14,
+          "end" : 17
+        },
+        {
+          "entity" : "location",
+          "value" : "\"seattle\"",
+          "start" : 21,
+          "end" : 28
+        }
+      ]
+    },
+    {
+      "text" : "sustento",
+      "entities" : [
+        {
+          "entity" : "general_food",
+          "value" : "\"sustento\"",
+          "start" : 0,
+          "end" : 8
+        }
+      ]
+    },
+    {
+      "text" : "tengo 50 libras de pollo entero sin cocinar para donar este jueves a las 4am",
+      "entities" : [
+        {
+          "entity" : "number",
+          "value" : "50",
+          "start" : 6,
+          "end" : 8
+        },
+        {
+          "entity" : "quantity_of_food",
+          "value" : "\"libras\"",
+          "start" : 9,
+          "end" : 15
+        },
+        {
+          "entity" : "specific_type_of_food",
+          "value" : "\"pollo\"",
+          "start" : 19,
+          "end" : 24
+        },
+        {
+          "entity" : "donation_action",
+          "value" : "\"donar\"",
+          "start" : 49,
+          "end" : 54
+        },
+        {
+          "entity" : "general_time_notion",
+          "value" : "\"jueves\"",
+          "start" : 60,
+          "end" : 66
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2016-10-23T04:00:00.000-07:00\"",
+          "start" : 73,
+          "end" : 76
+        }
+      ]
+    },
+    {
+      "text" : "tengo 90 kg de pollo para regalar el jueves a las 9pm",
+      "entities" : [
+        {
+          "entity" : "number",
+          "value" : "\"90\"",
+          "start" : 6,
+          "end" : 8
+        },
+        {
+          "entity" : "specific_type_of_food",
+          "value" : "\"pollo\"",
+          "start" : 15,
+          "end" : 20
+        },
+        {
+          "entity" : "donation_action",
+          "value" : "\"regalar\"",
+          "start" : 26,
+          "end" : 33
+        },
+        {
+          "entity" : "general_time_notion",
+          "value" : "\"jueves\"",
+          "start" : 37,
+          "end" : 43
+        },
+        {
+          "entity" : "datetime",
+          "value" : "\"2016-10-22T21:00:00.000-07:00\"",
+          "start" : 50,
+          "end" : 53
+        }
+      ]
+    },
+    {
+      "text" : "tengo carne para donar",
+      "entities" : [
+        {
+          "entity" : "specific_type_of_food",
+          "value" : "\"carne\"",
+          "start" : 6,
+          "end" : 11
+        }
+      ]
+    },
+    {
+      "text" : "tengo carne para regalar",
+      "entities" : [
+        {
+          "entity" : "specific_type_of_food",
+          "value" : "\"carne\"",
+          "start" : 6,
+          "end" : 11
+        },
+        {
+          "entity" : "donation_action",
+          "value" : "\"regalar\"",
+          "start" : 17,
+          "end" : 24
+        }
+      ]
+    },
+    {
+      "text" : "tengo comida ",
+      "entities" : [
+        {
+          "entity" : "general_food",
+          "value" : "\"comida\"",
+          "start" : 6,
+          "end" : 12
+        }
+      ]
+    },
+    {
+      "text" : "tengo comida para donar hoy en la mañana",
+      "entities" : [
+        {
+          "entity" : "general_food",
+          "value" : "\"comida\"",
+          "start" : 6,
+          "end" : 12
+        },
+        {
+          "entity" : "donation_action",
+          "value" : "\"donar\"",
+          "start" : 18,
+          "end" : 23
+        }
+      ]
+    },
+    {
+      "text" : "tengo comida para regalar mañana a las 6pm",
+      "entities" : [
+        {
+          "entity" : "general_food",
+          "value" : "\"comida\"",
+          "start" : 6,
+          "end" : 12
+        },
+        {
+          "entity" : "donation_action",
+          "value" : "\"regalar\"",
+          "start" : 18,
+          "end" : 25
+        }
+      ]
+    }
+  ]
+}

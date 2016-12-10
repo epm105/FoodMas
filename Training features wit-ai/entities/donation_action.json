@@ -1,0 +1,40 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "donation_action",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "donation_action",
+    "values" : [
+      {
+        "value" : "donar",
+        "expressions" : [
+          "donar"
+        ]
+      },
+      {
+        "value" : "ofrecer",
+        "expressions" : [
+          "ofrecer"
+        ]
+      },
+      {
+        "value" : "para dar",
+        "expressions" : [
+          "para dar"
+        ]
+      },
+      {
+        "value" : "regalar",
+        "expressions" : [
+          "regalar"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}

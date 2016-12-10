@@ -1,0 +1,124 @@
+{
+  "data" : {
+    "lookups" : [
+      "free-text",
+      "keywords"
+    ],
+    "name" : "quantity_of_food",
+    "lang" : "en",
+    "exotic" : false,
+    "id" : "quantity_of_food",
+    "values" : [
+      {
+        "value" : "bolsa",
+        "expressions" : [
+          "bolsa"
+        ]
+      },
+      {
+        "value" : "bolsas",
+        "expressions" : [
+          "bolsas"
+        ]
+      },
+      {
+        "value" : "botella",
+        "expressions" : [
+          "botella"
+        ]
+      },
+      {
+        "value" : "botellas",
+        "expressions" : [
+          "botellas"
+        ]
+      },
+      {
+        "value" : "cajas",
+        "expressions" : [
+          "cajas"
+        ]
+      },
+      {
+        "value" : "fundas",
+        "expressions" : [
+          "fundas"
+        ]
+      },
+      {
+        "value" : "gramos",
+        "expressions" : [
+          "gramos"
+        ]
+      },
+      {
+        "value" : "kg",
+        "expressions" : [
+          "kg"
+        ]
+      },
+      {
+        "value" : "kgs",
+        "expressions" : [
+          "kgs"
+        ]
+      },
+      {
+        "value" : "kilogramo",
+        "expressions" : [
+          "kilogramo"
+        ]
+      },
+      {
+        "value" : "kilogramos",
+        "expressions" : [
+          "kilogramos"
+        ]
+      },
+      {
+        "value" : "kilos",
+        "expressions" : [
+          "kilos"
+        ]
+      },
+      {
+        "value" : "latas",
+        "expressions" : [
+          "latas"
+        ]
+      },
+      {
+        "value" : "lb",
+        "expressions" : [
+          "lb"
+        ]
+      },
+      {
+        "value" : "lbs",
+        "expressions" : [
+          "lbs"
+        ]
+      },
+      {
+        "value" : "libras",
+        "expressions" : [
+          "libras"
+        ]
+      },
+      {
+        "value" : "porciones",
+        "expressions" : [
+          "porciones"
+        ]
+      },
+      {
+        "value" : "toneladas",
+        "expressions" : [
+          "toneladas"
+        ]
+      }
+    ],
+    "doc" : "User-defined entity",
+    "builtin" : false
+  }
+}
